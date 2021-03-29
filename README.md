@@ -103,6 +103,6 @@ You can also directly access the experiments results on `experiments.ipynb`.
 
 2. Bay, H., Ess, A., Tuytelaars, T., & Van Gool, L. (2008). Speeded-up robust features (SURF). Computer vision and image understanding, 110(3), 346-359.
 
-3. 斎藤康毅（吳嘉芳譯）（2017）。Deep Learning: 用Python進行深度學習的基礎理論實作。*碁峰資訊股份有限公司*。ISBN: 9789864764846。GitHub: https://github.com/oreilly-japan/deep-learning-from-scratch。
+3. 斎藤康毅（吳嘉芳譯）（2017）。Deep Learning: 用Python進行深度學習的基礎理論實作。*碁峰資訊股份有限公司*。ISBN: 9789864764846。GitHub: https://github.com/oreilly-japan/deep-learning-from-scratch 。
 
 4. Watt, J., Borhani, R., & Katsaggelos, A. K. (2019). Machine learning refined. ISBN: 9781107123526. GitHub: https://github.com/jermwatt/machine_learning_refined.
