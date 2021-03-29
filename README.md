@@ -34,7 +34,7 @@ This is assignment 2 of Deep Learning, a course at Institute of Data Science, Na
 
     - `./source/layers.py`: layers for NN model construction, e.g., `ReLU()`, `Sigmoid()`
 
-    - `./source/models.py`: construct the models, `NaivePerceptron` and `TwoLayerNet`
+    - `./source/models.py`: model construction
     
     - `./source/trainers.py`: class for training, predicting, and evaluating the models
 
